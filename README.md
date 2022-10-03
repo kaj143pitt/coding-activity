@@ -1,4 +1,4 @@
 # coding-activity
 Code sample for CMPINF10 lab
 
-Our code
+Our code will ask the user for the name and the age, then it will print the name and the age of the user.
