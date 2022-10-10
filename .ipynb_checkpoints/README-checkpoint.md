@@ -21,3 +21,8 @@ Make sure python is installed on your computer and you have an IDE that supports
 The software can be used for anything that needs a name and an age
 The software will echo the name and age back out
 
+## License
+We chose a license that allowed unrestricted use, copy, modify, merge, publish, distribute, sublicense, and/or sell because this repository is a school project and it will not be used for anything super important. For this reason, we do not care what others do to the repository.
+
+## Code of Conduct
+Since we do not care who uses or makes changes to our repository, the only requirements we have in the code of conduct is acceptable and unacceptable behavior. We want to make sure that our repository is a safe environment for people to use. 
