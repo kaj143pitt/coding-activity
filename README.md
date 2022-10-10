@@ -8,4 +8,8 @@ team members:
 Kameren Jouhal and Weini Xie He
 
 ## How to use
-enter
+Enter the name
+
+## How to install
+Clone the git reprository
+
